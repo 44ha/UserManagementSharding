@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio cache
+.vs/
+
+# Environment files
+.env
+
+# Backup files
+*.bak
